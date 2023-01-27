@@ -1,4 +1,4 @@
-DEPS= pleum
+DEPS= test
 
 compile: main.c 
 	gcc main.c -o $(DEPS)
